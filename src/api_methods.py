@@ -35,7 +35,7 @@ class YoutubeApi:
         response = GET(self.url + 'videos', params=params, headers=self.headers)
         return response.json()
     
-    def get_content(self, channel_url:str) -> dict:
+    def get_channel_content(self, channel_url:str) -> dict:
 
         key = channel_url.split("/")[-1]
         if channel_url.split("/")[-2] == 'channel':
@@ -45,3 +45,14 @@ class YoutubeApi:
             return self.get_channel_info(channel_id)
         else:
             return None
+    
+    def get_videos_search(self, channel_id):
+        params = {
+
+            'id': channel_id,
+            'key': self.api_key,
+            'maxResults': 50
+        }
+
+        response = GET(self.url + 'search', params=params, headers=self.headers)
+        return response.json()
