@@ -6,7 +6,7 @@ class YoutubeCSV:
         self.filename = filename
         self.data = pd.read_csv(self.filename, sep=sep, encoding=encoding)
 
-    def channel_key(self):
+    def channel_url(self):
         data = self.data[f'{self.column}'].to_list()
         return data
 
