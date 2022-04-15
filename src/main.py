@@ -14,17 +14,17 @@ channel = channel_url[2]
 
 channel_content = api.get_channel_content(channel)
 # write channel content
-# with open('output_data/channel_content.json', 'w') as outfile:
-#     json.dump(channel_content, outfile, indent=4)
+with open('output_data/channel_content.json', 'w') as outfile:
+    json.dump(channel_content, outfile, indent=4)
 
-# channel_id = channel_content['items'][0]['id']
+channel_id = channel_content['items'][0]['id']
 
 # get search content
-# search_content = api.get_videos_search(channel_id)
+search_content = api.get_videos_search(channel_id)
 
 # write search content
-# with open('output_data/search_content.json', 'w') as outfile:
-#     json.dump(search_content, outfile, indent=4)
+with open('output_data/search_content.json', 'w') as outfile:
+    json.dump(search_content, outfile, indent=4)
 
 # read json
 with open('output_data/search_content.json', 'r') as infile:
