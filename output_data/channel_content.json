@@ -1,53 +1,3141 @@
-{
-    "kind": "youtube#channelListResponse",
-    "etag": "zSvnLrj7Sh8SUvCDayiWkR21rlw",
-    "pageInfo": {
-        "totalResults": 1,
-        "resultsPerPage": 5
-    },
-    "items": [
-        {
-            "kind": "youtube#channel",
-            "etag": "qA3ixJuuWdldeAPF64Iy8s-3Q5o",
-            "id": "UCB44JJKRxaHmqJ-Txhb31og",
-            "snippet": {
-                "title": "Col\u00e9gio Pedro II - Oficial",
-                "description": "Fundado em 2 de dezembro de 1837, o CPII \u00e9 uma das mais antigas e influentes institui\u00e7\u00f5es de ensino do Brasil. Integramos a Rede Federal de Educa\u00e7\u00e3o Profissional, Cient\u00edfica e Tecnol\u00f3gica, sendo a \u00fanica institui\u00e7\u00e3o a oferecer da educa\u00e7\u00e3o infantil a p\u00f3s-gradua\u00e7\u00e3o, com campi na cidade do Rio de Janeiro, Duque de Caxias e Niter\u00f3i. \n\nVisite nossa p\u00e1gina: www.cp2.g12.br  \n\nDescubra nossa hist\u00f3ria em: http://bit.ly/historiacp2\n\nSiga o CPII nas redes socias: \nwww.facebook.com/cpiioficial\nwww.instagram.com/cpiioficial\nwww.twitter.com/cpii_oficial",
-                "publishedAt": "2014-08-01T19:42:06Z",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/ytc/AKedOLQeJVxIHDGwGliwZ6tYgmqRDeE5MeY9DvAHyXE-=s88-c-k-c0x00ffffff-no-rj",
-                        "width": 88,
-                        "height": 88
+[
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "GkqK-nc-m3OdEwoUkC1vaieIeOc",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "bUnOWPbDMdHsqQRzGDMsMy_Q7kY",
+                "id": "UCWwPb4o2HGyxi0QdUXbxpGg",
+                "snippet": {
+                    "title": "Cefet/RJ",
+                    "description": "Canal oficial do Centro Federal de Educa\u00e7\u00e3o Tecnol\u00f3gica Celso Suckow da Fonseca \u2013 Cefet/RJ. Pol\u00edtica de uso das redes sociais: bit.ly/politicaredessociaiscefetrj.",
+                    "customUrl": "cefetrjoficial",
+                    "publishedAt": "2015-03-24T17:17:45Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQYtQz0igYDMBQXToTQjMp1by7Wkb_zZlzDQrbKOQ=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQYtQz0igYDMBQXToTQjMp1by7Wkb_zZlzDQrbKOQ=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQYtQz0igYDMBQXToTQjMp1by7Wkb_zZlzDQrbKOQ=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
                     },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/ytc/AKedOLQeJVxIHDGwGliwZ6tYgmqRDeE5MeY9DvAHyXE-=s240-c-k-c0x00ffffff-no-rj",
-                        "width": 240,
-                        "height": 240
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/ytc/AKedOLQeJVxIHDGwGliwZ6tYgmqRDeE5MeY9DvAHyXE-=s800-c-k-c0x00ffffff-no-rj",
-                        "width": 800,
-                        "height": 800
+                    "localized": {
+                        "title": "Cefet/RJ",
+                        "description": "Canal oficial do Centro Federal de Educa\u00e7\u00e3o Tecnol\u00f3gica Celso Suckow da Fonseca \u2013 Cefet/RJ. Pol\u00edtica de uso das redes sociais: bit.ly/politicaredessociaiscefetrj."
                     }
                 },
-                "localized": {
-                    "title": "Col\u00e9gio Pedro II - Oficial",
-                    "description": "Fundado em 2 de dezembro de 1837, o CPII \u00e9 uma das mais antigas e influentes institui\u00e7\u00f5es de ensino do Brasil. Integramos a Rede Federal de Educa\u00e7\u00e3o Profissional, Cient\u00edfica e Tecnol\u00f3gica, sendo a \u00fanica institui\u00e7\u00e3o a oferecer da educa\u00e7\u00e3o infantil a p\u00f3s-gradua\u00e7\u00e3o, com campi na cidade do Rio de Janeiro, Duque de Caxias e Niter\u00f3i. \n\nVisite nossa p\u00e1gina: www.cp2.g12.br  \n\nDescubra nossa hist\u00f3ria em: http://bit.ly/historiacp2\n\nSiga o CPII nas redes socias: \nwww.facebook.com/cpiioficial\nwww.instagram.com/cpiioficial\nwww.twitter.com/cpii_oficial"
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUWwPb4o2HGyxi0QdUXbxpGg"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "22109",
+                    "subscriberCount": "969",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "53"
                 }
-            },
-            "contentDetails": {
-                "relatedPlaylists": {
-                    "likes": "",
-                    "uploads": "UUB44JJKRxaHmqJ-Txhb31og"
-                }
-            },
-            "statistics": {
-                "viewCount": "334366",
-                "subscriberCount": "11500",
-                "hiddenSubscriberCount": false,
-                "videoCount": "195"
             }
-        }
-    ]
-}
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "zSvnLrj7Sh8SUvCDayiWkR21rlw",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "qA3ixJuuWdldeAPF64Iy8s-3Q5o",
+                "id": "UCB44JJKRxaHmqJ-Txhb31og",
+                "snippet": {
+                    "title": "Col\u00e9gio Pedro II - Oficial",
+                    "description": "Fundado em 2 de dezembro de 1837, o CPII \u00e9 uma das mais antigas e influentes institui\u00e7\u00f5es de ensino do Brasil. Integramos a Rede Federal de Educa\u00e7\u00e3o Profissional, Cient\u00edfica e Tecnol\u00f3gica, sendo a \u00fanica institui\u00e7\u00e3o a oferecer da educa\u00e7\u00e3o infantil a p\u00f3s-gradua\u00e7\u00e3o, com campi na cidade do Rio de Janeiro, Duque de Caxias e Niter\u00f3i. \n\nVisite nossa p\u00e1gina: www.cp2.g12.br  \n\nDescubra nossa hist\u00f3ria em: http://bit.ly/historiacp2\n\nSiga o CPII nas redes socias: \nwww.facebook.com/cpiioficial\nwww.instagram.com/cpiioficial\nwww.twitter.com/cpii_oficial",
+                    "publishedAt": "2014-08-01T19:42:06Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQeJVxIHDGwGliwZ6tYgmqRDeE5MeY9DvAHyXE-=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQeJVxIHDGwGliwZ6tYgmqRDeE5MeY9DvAHyXE-=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQeJVxIHDGwGliwZ6tYgmqRDeE5MeY9DvAHyXE-=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Col\u00e9gio Pedro II - Oficial",
+                        "description": "Fundado em 2 de dezembro de 1837, o CPII \u00e9 uma das mais antigas e influentes institui\u00e7\u00f5es de ensino do Brasil. Integramos a Rede Federal de Educa\u00e7\u00e3o Profissional, Cient\u00edfica e Tecnol\u00f3gica, sendo a \u00fanica institui\u00e7\u00e3o a oferecer da educa\u00e7\u00e3o infantil a p\u00f3s-gradua\u00e7\u00e3o, com campi na cidade do Rio de Janeiro, Duque de Caxias e Niter\u00f3i. \n\nVisite nossa p\u00e1gina: www.cp2.g12.br  \n\nDescubra nossa hist\u00f3ria em: http://bit.ly/historiacp2\n\nSiga o CPII nas redes socias: \nwww.facebook.com/cpiioficial\nwww.instagram.com/cpiioficial\nwww.twitter.com/cpii_oficial"
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUB44JJKRxaHmqJ-Txhb31og"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "334366",
+                    "subscriberCount": "11500",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "195"
+                }
+            }
+        ]
+    },
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "tBpWifX35sutnHRLMK-qG2G7tOs",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "XTinQ6k2RHee2UNESbauADvcEqY",
+                "id": "UCjaFM_ZJqxF7RywwvMn8_eQ",
+                "snippet": {
+                    "title": "WebTV IF Farroupilha",
+                    "description": "",
+                    "customUrl": "webtviffarroupilha",
+                    "publishedAt": "2014-01-16T14:12:35Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTv1HwOueZbwtPzYPKnlolgHQHx3MnPuvzTEK0k=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTv1HwOueZbwtPzYPKnlolgHQHx3MnPuvzTEK0k=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTv1HwOueZbwtPzYPKnlolgHQHx3MnPuvzTEK0k=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "WebTV IF Farroupilha",
+                        "description": ""
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUjaFM_ZJqxF7RywwvMn8_eQ"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "568079",
+                    "subscriberCount": "9860",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "927"
+                }
+            }
+        ]
+    },
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "xrXkoPQJsExt5auuKYVcFQuwtrg",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "OUwPFZc3_dn6BAJNf8Y6x7QXCIY",
+                "id": "UC6MCJM2Pg-3YHTH-79fdwsg",
+                "snippet": {
+                    "title": "Ifal",
+                    "description": "O Instituto Federal de Alagoas faz parte da Rede Federal de Educa\u00e7\u00e3o Profissional, Cient\u00edfica e Tecnol\u00f3gica, vinculada ao Minist\u00e9rio da Educa\u00e7\u00e3o e \u00e0 oferta de n\u00edveis de ensino da educa\u00e7\u00e3o b\u00e1sica a p\u00f3s-gradua\u00e7\u00e3o. O ifal disp\u00f5e de 16 campi, distribu\u00eddos nas microrregi\u00f5es do estado de Alagoas.",
+                    "customUrl": "ifaloficial",
+                    "publishedAt": "2013-10-09T18:49:20Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/jPTB3T04OcHX_JE54RRzGOu6PmZFtlVJZVahcAXKjuYTIYkVkGswTjg3aWdTKuwioLPSK3tWjyk=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/jPTB3T04OcHX_JE54RRzGOu6PmZFtlVJZVahcAXKjuYTIYkVkGswTjg3aWdTKuwioLPSK3tWjyk=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/jPTB3T04OcHX_JE54RRzGOu6PmZFtlVJZVahcAXKjuYTIYkVkGswTjg3aWdTKuwioLPSK3tWjyk=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Ifal",
+                        "description": "O Instituto Federal de Alagoas faz parte da Rede Federal de Educa\u00e7\u00e3o Profissional, Cient\u00edfica e Tecnol\u00f3gica, vinculada ao Minist\u00e9rio da Educa\u00e7\u00e3o e \u00e0 oferta de n\u00edveis de ensino da educa\u00e7\u00e3o b\u00e1sica a p\u00f3s-gradua\u00e7\u00e3o. O ifal disp\u00f5e de 16 campi, distribu\u00eddos nas microrregi\u00f5es do estado de Alagoas."
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU6MCJM2Pg-3YHTH-79fdwsg"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "450248",
+                    "subscriberCount": "9230",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "578"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "wFEQJ54rFiKrpDsHuXNXs_TRMLo",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "BFgrrkoHc_6sfnci-Dmuv5xNe2A",
+                "id": "UCKm-gZuzlfmXGwbq_CWlILA",
+                "snippet": {
+                    "title": "TV IFAM",
+                    "description": "",
+                    "publishedAt": "2012-03-16T14:53:05Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQi2W-XvWUU-3xpG7lo2bbgeZS08Ay5VS3D6OH86Q=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQi2W-XvWUU-3xpG7lo2bbgeZS08Ay5VS3D6OH86Q=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQi2W-XvWUU-3xpG7lo2bbgeZS08Ay5VS3D6OH86Q=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "TV IFAM",
+                        "description": ""
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUKm-gZuzlfmXGwbq_CWlILA"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "248989",
+                    "subscriberCount": "8560",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "418"
+                }
+            }
+        ]
+    },
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "VYP1HISIEjxuHXNOJrkUFmGVFq8",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "3J9S--vC5MoW9SKbmQga8MFCbLc",
+                "id": "UC23eWxl4L_Uzx9w8tFDfoEw",
+                "snippet": {
+                    "title": "TV IFB",
+                    "description": "Canal oficial do Instituto Federal de Bras\u00edlia - IFB",
+                    "customUrl": "tvifbrasilia",
+                    "publishedAt": "2014-11-10T12:33:47Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRze742US_BjD6XrjBxqTyy7P_JpHUVCtyCwIIf=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRze742US_BjD6XrjBxqTyy7P_JpHUVCtyCwIIf=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRze742US_BjD6XrjBxqTyy7P_JpHUVCtyCwIIf=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "TV IFB",
+                        "description": "Canal oficial do Instituto Federal de Bras\u00edlia - IFB"
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU23eWxl4L_Uzx9w8tFDfoEw"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "899927",
+                    "subscriberCount": "13600",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "1014"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "MphWpIek1TazJ-zreTZ60Wc1Yk0",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "vbO-9-xTYbU_upS010UcRylnJvE",
+                "id": "UCyCPdBXqatYjrOhqY0k3sMQ",
+                "snippet": {
+                    "title": "TV IFBA",
+                    "description": "A TV IFBA tem o objetivo de promover o ensino, a pesquisa e a extens\u00e3o, atrav\u00e9s da produ\u00e7\u00e3o de conte\u00fado sobre a\u00e7\u00f5es e eventos desenvolvidos no IFBA. Atua no desenvolvimento de dois eixos: \n\u2022 V\u00eddeos jornal\u00edsticos: fundamentados nos crit\u00e9rios de noticiabilidade, t\u00eam a finalidade de divulgar as a\u00e7\u00f5es e eventos institucionais. \n\u2022 V\u00eddeos promocionais: com o objetivo de dar notoriedade a institui\u00e7\u00e3o, a\u00e7\u00e3o, evento ou ideias, possuem car\u00e1ter publicit\u00e1rio e foco nos valores institucionais.\n\n\n",
+                    "customUrl": "tvifba",
+                    "publishedAt": "2016-05-10T23:01:07Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQSdbY4uPySI2eboqzH6SZy3G6NvKyIgc3Cklgq2A=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQSdbY4uPySI2eboqzH6SZy3G6NvKyIgc3Cklgq2A=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQSdbY4uPySI2eboqzH6SZy3G6NvKyIgc3Cklgq2A=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "TV IFBA",
+                        "description": "A TV IFBA tem o objetivo de promover o ensino, a pesquisa e a extens\u00e3o, atrav\u00e9s da produ\u00e7\u00e3o de conte\u00fado sobre a\u00e7\u00f5es e eventos desenvolvidos no IFBA. Atua no desenvolvimento de dois eixos: \n\u2022 V\u00eddeos jornal\u00edsticos: fundamentados nos crit\u00e9rios de noticiabilidade, t\u00eam a finalidade de divulgar as a\u00e7\u00f5es e eventos institucionais. \n\u2022 V\u00eddeos promocionais: com o objetivo de dar notoriedade a institui\u00e7\u00e3o, a\u00e7\u00e3o, evento ou ideias, possuem car\u00e1ter publicit\u00e1rio e foco nos valores institucionais.\n\n\n"
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUyCPdBXqatYjrOhqY0k3sMQ"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "400472",
+                    "subscriberCount": "12300",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "703"
+                }
+            }
+        ]
+    },
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "BY8Mx2MhgklSUFdT9zvLkCg1h4k",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "V1Luk7nLe93vLaEXGTPPIY38Qdc",
+                "id": "UC4dJyN96JoKFElq0oTyKkgA",
+                "snippet": {
+                    "title": "IFC Instituto Federal Catarinense",
+                    "description": "",
+                    "publishedAt": "2012-05-21T17:52:29Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRD20bOrALv8F5Sp8-rOjJ-JfvfKpCPsMHBSuhNqQ=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRD20bOrALv8F5Sp8-rOjJ-JfvfKpCPsMHBSuhNqQ=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRD20bOrALv8F5Sp8-rOjJ-JfvfKpCPsMHBSuhNqQ=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "IFC Instituto Federal Catarinense",
+                        "description": ""
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU4dJyN96JoKFElq0oTyKkgA"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "638883",
+                    "subscriberCount": "11300",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "671"
+                }
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "3lca723LIExTw3uu7GP4gKoRa9o",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "BkLDLS2SbEsLkEcL32p9Co1KWHQ",
+                "id": "UCpy2OnrJVdmXDAS9Dk2c3XA",
+                "snippet": {
+                    "title": "TV IFMA",
+                    "description": "Canal oficial de v\u00eddeos do Instituto Federal do Maranh\u00e3o (IFMA).",
+                    "customUrl": "tvifma",
+                    "publishedAt": "2011-09-29T15:37:14Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLR_rCjmt53wQMPvP7Y18MODbQIJEefcKKW-ZGx2=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLR_rCjmt53wQMPvP7Y18MODbQIJEefcKKW-ZGx2=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLR_rCjmt53wQMPvP7Y18MODbQIJEefcKKW-ZGx2=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "TV IFMA",
+                        "description": "Canal oficial de v\u00eddeos do Instituto Federal do Maranh\u00e3o (IFMA)."
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUpy2OnrJVdmXDAS9Dk2c3XA"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "534323",
+                    "subscriberCount": "18400",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "554"
+                }
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "v9JdVSFAqMvj1bbr7j9kLLDfZPE",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "upepMuYuwp76Ze0YswtpfTQbg_Q",
+                "id": "UCTiShFG86loU_ClLdzP8Iyw",
+                "snippet": {
+                    "title": "IFMT Oficial",
+                    "description": "",
+                    "publishedAt": "2014-11-12T15:30:35Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSR0mP0mNOfedMO702dHA8TscJDlhgtK-lojfLxGQ=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSR0mP0mNOfedMO702dHA8TscJDlhgtK-lojfLxGQ=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSR0mP0mNOfedMO702dHA8TscJDlhgtK-lojfLxGQ=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "IFMT Oficial",
+                        "description": ""
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUTiShFG86loU_ClLdzP8Iyw"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "85548",
+                    "subscriberCount": "2740",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "172"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "n4qzMhv9S6DlDwKxyxpmJZv0kq4",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "dRqjCL-3_qUh29yVqnnqJOrQr2Q",
+                "id": "UCIDq7h4rWwpEKM_PAYpCrfQ",
+                "snippet": {
+                    "title": "IFNMG",
+                    "description": "",
+                    "publishedAt": "2009-11-04T23:19:33Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSd0MOdiDCMEMN6kexHUUS96H9XsXlhUIziEhdF=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSd0MOdiDCMEMN6kexHUUS96H9XsXlhUIziEhdF=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSd0MOdiDCMEMN6kexHUUS96H9XsXlhUIziEhdF=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "IFNMG",
+                        "description": ""
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUIDq7h4rWwpEKM_PAYpCrfQ"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "644061",
+                    "subscriberCount": "10000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "446"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "8ppGvx5ZBkkqkLr6TcQykyrgzSk",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "SWY-4ZBBELRG0UJvuA-5W5Ww91Q",
+                "id": "UCRIFoSJXVEb5Td8w2tSAqrA",
+                "snippet": {
+                    "title": "Instituto Federal do Par\u00e1 - IFPA",
+                    "description": "Inscreva-se no canal do Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia do Par\u00e1, aqui voc\u00ea poder\u00e1 conferir semanalmente as not\u00edcias das principais atividades de Instituto em prol da educa\u00e7\u00e3o.",
+                    "customUrl": "institutofederaldoparaifpa",
+                    "publishedAt": "2014-05-08T13:48:41Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQ-H6yKPHsf2iewNeim2XgbWRjK9_QWhAIQuu7w=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQ-H6yKPHsf2iewNeim2XgbWRjK9_QWhAIQuu7w=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQ-H6yKPHsf2iewNeim2XgbWRjK9_QWhAIQuu7w=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Instituto Federal do Par\u00e1 - IFPA",
+                        "description": "Inscreva-se no canal do Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia do Par\u00e1, aqui voc\u00ea poder\u00e1 conferir semanalmente as not\u00edcias das principais atividades de Instituto em prol da educa\u00e7\u00e3o."
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UURIFoSJXVEb5Td8w2tSAqrA"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "207367",
+                    "subscriberCount": "7270",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "514"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "c7lBsg8iCM3sEoOtt7nYGtXkIRw",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "gknebMPpv4dXUdd4LXlRoy_IwnE",
+                "id": "UCh_C8dLo6mLTRTsuT_UN_9Q",
+                "snippet": {
+                    "title": "TVIFPB",
+                    "description": "A TVIFPB faz parte da Coordena\u00e7\u00e3o de Produ\u00e7\u00e3o Audiovisual do Instituto Federal da Para\u00edba. ",
+                    "customUrl": "tvifpb",
+                    "publishedAt": "2011-06-17T18:44:41Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/8YyGI5nh5iBchLC72JwsxNGIZQ2wHGSeChV57Q1_TI6oJ9Sjc855R2Cd6tgei3rgQGdya-3dhg=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/8YyGI5nh5iBchLC72JwsxNGIZQ2wHGSeChV57Q1_TI6oJ9Sjc855R2Cd6tgei3rgQGdya-3dhg=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/8YyGI5nh5iBchLC72JwsxNGIZQ2wHGSeChV57Q1_TI6oJ9Sjc855R2Cd6tgei3rgQGdya-3dhg=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "TVIFPB",
+                        "description": "A TVIFPB faz parte da Coordena\u00e7\u00e3o de Produ\u00e7\u00e3o Audiovisual do Instituto Federal da Para\u00edba. "
+                    },
+                    "country": "US"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUh_C8dLo6mLTRTsuT_UN_9Q"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "506359",
+                    "hiddenSubscriberCount": true,
+                    "videoCount": "784"
+                }
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "x8PHdCbXDuULfQVNbZhoMsqCRkY",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "Na1rPMPWLEbxj1WtKBTkbm0bfa4",
+                "id": "UCYpGmXMywnhz8yNbQ__mUZg",
+                "snippet": {
+                    "title": "IFRJ",
+                    "description": "",
+                    "customUrl": "ifrjoficial",
+                    "publishedAt": "2014-01-30T13:26:19Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQNZkTyXK2KbAOY-NU-mQ3yypd7EIkjaROKh_aiGQ=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQNZkTyXK2KbAOY-NU-mQ3yypd7EIkjaROKh_aiGQ=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQNZkTyXK2KbAOY-NU-mQ3yypd7EIkjaROKh_aiGQ=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "IFRJ",
+                        "description": ""
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUYpGmXMywnhz8yNbQ__mUZg"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "247736",
+                    "subscriberCount": "6080",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "408"
+                }
+            }
+        ]
+    },
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "B7qxZjIn9WS_TQ6pmSlqxi0Zpyo",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "oMEBsnKasCWvxkRx4PfIeAmlT58",
+                "id": "UC2psRXqqB4BlMxBFIM60QGg",
+                "snippet": {
+                    "title": "IFRO",
+                    "description": "Canal oficial de v\u00eddeos do Instituto Federal de Rond\u00f4nia. Aqui voc\u00ea confere v\u00eddeos promocionais, entrevistas, relatos, divulga\u00e7\u00e3o sobre processos seletivos e demais informa\u00e7\u00f5es institucionais.",
+                    "publishedAt": "2010-10-05T12:53:58Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRnUnutWDr2vI4172oj1SJWh5A2eAETws6ED2-1vA=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRnUnutWDr2vI4172oj1SJWh5A2eAETws6ED2-1vA=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRnUnutWDr2vI4172oj1SJWh5A2eAETws6ED2-1vA=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "IFRO",
+                        "description": "Canal oficial de v\u00eddeos do Instituto Federal de Rond\u00f4nia. Aqui voc\u00ea confere v\u00eddeos promocionais, entrevistas, relatos, divulga\u00e7\u00e3o sobre processos seletivos e demais informa\u00e7\u00f5es institucionais."
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU2psRXqqB4BlMxBFIM60QGg"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "222103",
+                    "subscriberCount": "5160",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "202"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "hYk1pEJfD3lgQlGkj6isMJ6a3AM",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "fSCA7t54Dx-sqrOTP9ue8JAwX-c",
+                "id": "UCfawJN1t9YvNApLC1_MDeZQ",
+                "snippet": {
+                    "title": "IFRR",
+                    "description": "O Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia de Roraima (IFRR) \u00e9 uma institui\u00e7\u00e3o de ensino multicampi, composta pelos Campi Boa Vista Centro, Boa Vista Zona Oeste, Amajari, Avan\u00e7ado do Bonfim e Novo Para\u00edso, al\u00e9m da Reitoria.\n\nMarca de Excel\u00eancia na Educa\u00e7\u00e3o do Extremo Norte do Brasil!",
+                    "customUrl": "ifrroficial",
+                    "publishedAt": "2012-01-31T19:34:36Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRt9PD8MLbFZf8yo67peeD0TbXGbXktVPFI8pQc=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRt9PD8MLbFZf8yo67peeD0TbXGbXktVPFI8pQc=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRt9PD8MLbFZf8yo67peeD0TbXGbXktVPFI8pQc=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "IFRR",
+                        "description": "O Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia de Roraima (IFRR) \u00e9 uma institui\u00e7\u00e3o de ensino multicampi, composta pelos Campi Boa Vista Centro, Boa Vista Zona Oeste, Amajari, Avan\u00e7ado do Bonfim e Novo Para\u00edso, al\u00e9m da Reitoria.\n\nMarca de Excel\u00eancia na Educa\u00e7\u00e3o do Extremo Norte do Brasil!"
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUfawJN1t9YvNApLC1_MDeZQ"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "51042",
+                    "subscriberCount": "2030",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "201"
+                }
+            }
+        ]
+    },
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "oXX6vDCj2umYx6Ez-6X8thcLw4U",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "jx4w-FL-2oPkjGeQO6dQdCzaQf0",
+                "id": "UCaelRuN0Tj75f-MYpDZoXdQ",
+                "snippet": {
+                    "title": "IFSergipe",
+                    "description": "Divulga\u00e7\u00e3o de informativos sobre atividades do Instituto Federal de Sergipe",
+                    "customUrl": "ifsergipe",
+                    "publishedAt": "2014-09-17T18:29:42Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQ_xBhCgT8hDKU8vLVjgqoTKiUNi9VG20cSXxanzQ=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQ_xBhCgT8hDKU8vLVjgqoTKiUNi9VG20cSXxanzQ=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQ_xBhCgT8hDKU8vLVjgqoTKiUNi9VG20cSXxanzQ=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "IFSergipe",
+                        "description": "Divulga\u00e7\u00e3o de informativos sobre atividades do Instituto Federal de Sergipe"
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUaelRuN0Tj75f-MYpDZoXdQ"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "572650",
+                    "subscriberCount": "10500",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "603"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "kmEZU6u_3KrDZG40JyR3hr4SI5s",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "cigOWTZqXhCwH4kEsGiSgD-qpak",
+                "id": "UCD4fOQIl0dKrVKO_8fScOEQ",
+                "snippet": {
+                    "title": "IFSC",
+                    "description": "Canal de v\u00eddeos do Instituto Federal de Santa Catarina, administrado pela Coordenadoria de Jornalismo do IFSC.",
+                    "publishedAt": "2010-06-21T14:05:51Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSGHlzinHas0xxrf5t5aZc2CoBf_IrExhQ49Pjj=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSGHlzinHas0xxrf5t5aZc2CoBf_IrExhQ49Pjj=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSGHlzinHas0xxrf5t5aZc2CoBf_IrExhQ49Pjj=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "IFSC",
+                        "description": "Canal de v\u00eddeos do Instituto Federal de Santa Catarina, administrado pela Coordenadoria de Jornalismo do IFSC."
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUD4fOQIl0dKrVKO_8fScOEQ"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "1545749",
+                    "subscriberCount": "15700",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "2213"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "_gvE3fBhGUj63nwVOLNKVO2dgj4",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "7dubatuVqAuytDp1mHqiScdPcFE",
+                "id": "UCEc6dnCzkqnWhHl7MWr5hJg",
+                "snippet": {
+                    "title": "IF Sert\u00e3o-PE Oficial",
+                    "description": "",
+                    "publishedAt": "2012-11-22T14:09:23Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQd3YaJ3J1EPa_TQwpTvaxZuKdTxYU1eEwxt-RG=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQd3YaJ3J1EPa_TQwpTvaxZuKdTxYU1eEwxt-RG=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQd3YaJ3J1EPa_TQwpTvaxZuKdTxYU1eEwxt-RG=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "IF Sert\u00e3o-PE Oficial",
+                        "description": ""
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUEc6dnCzkqnWhHl7MWr5hJg"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "17523",
+                    "subscriberCount": "596",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "7"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "RUFY1zLVLrT_ExC4NtqDk_m2DWY",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "4p6H8s36eDha7LY_Vb56QzLFV9U",
+                "id": "UCYDIZsR0ReOBCvrE32esKwQ",
+                "snippet": {
+                    "title": "IFSP - Instituto Federal de S\u00e3o Paulo",
+                    "description": "O Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia de S\u00e3o Paulo \u2013 IFSP \u2013 \u00e9 uma autarquia federal de ensino.\n\nFundada em 1909, como Escola de Aprendizes Art\u00edfices, \u00e9 reconhecida pela sociedade paulista por sua excel\u00eancia no ensino p\u00fablico gratuito de qualidade.\n\nDurante seus 105 anos de hist\u00f3ria, recebeu, tamb\u00e9m, os nomes de Escola T\u00e9cnica Federal de S\u00e3o Paulo e Centro Federal de Educa\u00e7\u00e3o Tecnol\u00f3gica de S\u00e3o Paulo. Com a transforma\u00e7\u00e3o em Instituto, em dezembro de 2008, passou a ter relev\u00e2ncia de universidade, destacando-se pela autonomia.",
+                    "publishedAt": "2014-03-24T18:25:50Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRKjgxgI9VE6dFUKlW3113XF5o_uexrrwgQq9Rs=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRKjgxgI9VE6dFUKlW3113XF5o_uexrrwgQq9Rs=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRKjgxgI9VE6dFUKlW3113XF5o_uexrrwgQq9Rs=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "IFSP - Instituto Federal de S\u00e3o Paulo",
+                        "description": "O Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia de S\u00e3o Paulo \u2013 IFSP \u2013 \u00e9 uma autarquia federal de ensino.\n\nFundada em 1909, como Escola de Aprendizes Art\u00edfices, \u00e9 reconhecida pela sociedade paulista por sua excel\u00eancia no ensino p\u00fablico gratuito de qualidade.\n\nDurante seus 105 anos de hist\u00f3ria, recebeu, tamb\u00e9m, os nomes de Escola T\u00e9cnica Federal de S\u00e3o Paulo e Centro Federal de Educa\u00e7\u00e3o Tecnol\u00f3gica de S\u00e3o Paulo. Com a transforma\u00e7\u00e3o em Instituto, em dezembro de 2008, passou a ter relev\u00e2ncia de universidade, destacando-se pela autonomia."
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUYDIZsR0ReOBCvrE32esKwQ"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "1345235",
+                    "hiddenSubscriberCount": true,
+                    "videoCount": "902"
+                }
+            }
+        ]
+    },
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "fvoQMOi1L-3Ggwk3H7_6Ixiy-Rc",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "W0vr2zKl83Axf04PuNaOsCPRhss",
+                "id": "UCS0EVy3dFCqIQ5Yb2WyRISQ",
+                "snippet": {
+                    "title": "IFSul Transmiss\u00f5es",
+                    "description": "Canal para realiza\u00e7\u00e3o de transmiss\u00f5es ao vivo do Instituto Federal Sul-rio-grandense (IFSul).",
+                    "publishedAt": "2019-03-25T14:07:20Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTr7WGirM8rXN-yh3YlvweZ7mxLHgd3GSu5GXD6=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTr7WGirM8rXN-yh3YlvweZ7mxLHgd3GSu5GXD6=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTr7WGirM8rXN-yh3YlvweZ7mxLHgd3GSu5GXD6=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "IFSul Transmiss\u00f5es",
+                        "description": "Canal para realiza\u00e7\u00e3o de transmiss\u00f5es ao vivo do Instituto Federal Sul-rio-grandense (IFSul)."
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUS0EVy3dFCqIQ5Yb2WyRISQ"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "147983",
+                    "subscriberCount": "7920",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "138"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "-jj5OX-v9n0I4WrXzmvFKhC9LD0",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "dioHidpAQVL9fJKTXUBq3K7D0uY",
+                "id": "UC73UAcaqQqVwu9m6ZACOaDw",
+                "snippet": {
+                    "title": "TV IFSULDEMINAS",
+                    "description": "Canal Oficial do IFSULDEMINAS no Youtube.",
+                    "customUrl": "tvifsuldeminas",
+                    "publishedAt": "2014-07-09T20:24:44Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQDp5Y9OHZGTimz4IV58pR0jiKjW_dX362UrHS7nA=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQDp5Y9OHZGTimz4IV58pR0jiKjW_dX362UrHS7nA=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQDp5Y9OHZGTimz4IV58pR0jiKjW_dX362UrHS7nA=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "TV IFSULDEMINAS",
+                        "description": "Canal Oficial do IFSULDEMINAS no Youtube."
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU73UAcaqQqVwu9m6ZACOaDw"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "451737",
+                    "subscriberCount": "14000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "403"
+                }
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "AbDvVG-_Ci3w_FTirkkzBbtjHNI",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "zL_80feL3EabRzxNyGMTULX2ZDg",
+                "id": "UCvepSIFR8p1E2sUbSwpJC0w",
+                "snippet": {
+                    "title": "Canal UFAM",
+                    "description": "",
+                    "publishedAt": "2020-07-14T04:32:57.759884Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSJezvc1_wvJJff2IUYWe9rz3VGjtTihqXdU4Pq-A=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSJezvc1_wvJJff2IUYWe9rz3VGjtTihqXdU4Pq-A=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSJezvc1_wvJJff2IUYWe9rz3VGjtTihqXdU4Pq-A=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Canal UFAM",
+                        "description": ""
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUvepSIFR8p1E2sUbSwpJC0w"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "143626",
+                    "subscriberCount": "4560",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "254"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "hLWo2-5eCNPvJQH4P40Rvbz1q_c",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "dR08seqJ2sRCE_JeWXPdq8-Z0Fw",
+                "id": "UCPGY8eKRMvAqiGaPoQqfOIw",
+                "snippet": {
+                    "title": "UFAPE",
+                    "description": "Canal oficial da Universidade Federal do Agreste de Pernambuco",
+                    "publishedAt": "2020-04-14T01:20:24.071495Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRZuxfdX_L40cNm4gNK02dT4J-Qpsds3nMoftQ=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRZuxfdX_L40cNm4gNK02dT4J-Qpsds3nMoftQ=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRZuxfdX_L40cNm4gNK02dT4J-Qpsds3nMoftQ=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "UFAPE",
+                        "description": "Canal oficial da Universidade Federal do Agreste de Pernambuco"
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUPGY8eKRMvAqiGaPoQqfOIw"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "19346",
+                    "subscriberCount": "1180",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "55"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "3Xy25q2L-n99P_ULLrRn1ctsBUI",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "nR-bm6a6Jg8i-XP25NI05CIGC0Q",
+                "id": "UCY85wHK1Z3LJyKB7XQ-pJ0g",
+                "snippet": {
+                    "title": "UFCTV",
+                    "description": "O Canal UFCTV apresenta a produ\u00e7\u00e3o da Universidade Federal do Cear\u00e1, destacando sua presen\u00e7a no cotidiano das pessoas. \u00c9 uma iniciativa da Coordenadoria de Comunica\u00e7\u00e3o Social e Marketing Institucional da UFC que visa fortalecer o di\u00e1logo com a sociedade. Diversos temas ganham espa\u00e7o no UFCTV, tais como ensino, pesquisa, extens\u00e3o, internacionaliza\u00e7\u00e3o, cultura e arte.  Navegue pelos programas e conhe\u00e7a mais a UFC.",
+                    "customUrl": "ufctvce",
+                    "publishedAt": "2013-11-25T14:31:59Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTf0MN94zeu6OSIdihhBShKZ_ei3Y5Rz4OAAlGd=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTf0MN94zeu6OSIdihhBShKZ_ei3Y5Rz4OAAlGd=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTf0MN94zeu6OSIdihhBShKZ_ei3Y5Rz4OAAlGd=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "UFCTV",
+                        "description": "O Canal UFCTV apresenta a produ\u00e7\u00e3o da Universidade Federal do Cear\u00e1, destacando sua presen\u00e7a no cotidiano das pessoas. \u00c9 uma iniciativa da Coordenadoria de Comunica\u00e7\u00e3o Social e Marketing Institucional da UFC que visa fortalecer o di\u00e1logo com a sociedade. Diversos temas ganham espa\u00e7o no UFCTV, tais como ensino, pesquisa, extens\u00e3o, internacionaliza\u00e7\u00e3o, cultura e arte.  Navegue pelos programas e conhe\u00e7a mais a UFC."
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUY85wHK1Z3LJyKB7XQ-pJ0g"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "11224587",
+                    "subscriberCount": "37900",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "1487"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "SR9oC0FmhZ0aPalTC0UCRUw7z-o",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "C2z8H6uK0UsaOJqOfTlcV6E4tT0",
+                "id": "UC1fQfh24S6t8FDENFy7Osqg",
+                "snippet": {
+                    "title": "UFCA TV",
+                    "description": "",
+                    "customUrl": "ufcatvoficial",
+                    "publishedAt": "2015-11-25T19:25:00Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLT14E1xruhWgvTYF_lQ7K6LXt0qpty3-UpzSBm7=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLT14E1xruhWgvTYF_lQ7K6LXt0qpty3-UpzSBm7=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLT14E1xruhWgvTYF_lQ7K6LXt0qpty3-UpzSBm7=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "UFCA TV",
+                        "description": ""
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU1fQfh24S6t8FDENFy7Osqg"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "91144",
+                    "subscriberCount": "2600",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "171"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "5GaqH5snPD_Z4NJcqDIIZq2zVfQ",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "RjvqXT3wsNlQyxMNU6BeyLCUXIU",
+                "id": "UCRWsbImEI7dMOy4tyRYIdXQ",
+                "snippet": {
+                    "title": "Universidade Federal de Catal\u00e3o - UFCAT",
+                    "description": "Canal oficial da Universidade Federal de Catal\u00e3o (UFCAT), mantido e atualizado pela Assessoria de Comunica\u00e7\u00e3o.\n\nVenha ser protagonista com a UFCAT! ",
+                    "customUrl": "universidadefederaldecatalaoufcat",
+                    "publishedAt": "2013-10-07T17:49:48Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/xNGwGHoDj6s328FbfFQ-13tnbw--7sn-cBRbCJps8ahWsazEiq_WSkJdo3gb5jNUTVvYccSIzw=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/xNGwGHoDj6s328FbfFQ-13tnbw--7sn-cBRbCJps8ahWsazEiq_WSkJdo3gb5jNUTVvYccSIzw=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/xNGwGHoDj6s328FbfFQ-13tnbw--7sn-cBRbCJps8ahWsazEiq_WSkJdo3gb5jNUTVvYccSIzw=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Universidade Federal de Catal\u00e3o - UFCAT",
+                        "description": "Canal oficial da Universidade Federal de Catal\u00e3o (UFCAT), mantido e atualizado pela Assessoria de Comunica\u00e7\u00e3o.\n\nVenha ser protagonista com a UFCAT! "
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UURWsbImEI7dMOy4tyRYIdXQ"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "58267",
+                    "subscriberCount": "2820",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "121"
+                }
+            }
+        ]
+    },
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "Sm74QarDDpXaK7N8NicFuSvYq1o",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "0PrFMAAZ7Rz9CpcRY8HfyCLTAUc",
+                "id": "UC3VCbPboLQLt-usXHkVm68Q",
+                "snippet": {
+                    "title": "TV UFDPar",
+                    "description": "",
+                    "customUrl": "tvufdpar",
+                    "publishedAt": "2020-06-05T20:30:30.744444Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/iyE5wTX_KjVD6KfcR8c-PbDdbyX7kXnHUqMPLSJJFchh8-8my7RUlclKjY9CFPV33pgDt9ebNQ=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/iyE5wTX_KjVD6KfcR8c-PbDdbyX7kXnHUqMPLSJJFchh8-8my7RUlclKjY9CFPV33pgDt9ebNQ=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/iyE5wTX_KjVD6KfcR8c-PbDdbyX7kXnHUqMPLSJJFchh8-8my7RUlclKjY9CFPV33pgDt9ebNQ=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "TV UFDPar",
+                        "description": ""
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU3VCbPboLQLt-usXHkVm68Q"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "23249",
+                    "subscriberCount": "1100",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "70"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "X-PJS0ikVK6aAnRBnjIVUdCKQp0",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "dIYLaLVfzDlYJTedQpuf-TXWHkk",
+                "id": "UC3aVc-c6Apico5lvkVluBBw",
+                "snippet": {
+                    "title": "TV Ufersa",
+                    "description": "",
+                    "publishedAt": "2012-08-23T20:58:20Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTo0G8aDX-BE1f-6cpxL2ngUXZqOFmrqtNcn9BbRg=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTo0G8aDX-BE1f-6cpxL2ngUXZqOFmrqtNcn9BbRg=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTo0G8aDX-BE1f-6cpxL2ngUXZqOFmrqtNcn9BbRg=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "TV Ufersa",
+                        "description": ""
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU3aVc-c6Apico5lvkVluBBw"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "319317",
+                    "subscriberCount": "4150",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "202"
+                }
+            }
+        ]
+    },
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "jF_yG9Ac8J_nklgUPe1E5w41x8w",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "605s5h6zklqZO6uV6X9QvirbjLo",
+                "id": "UCbiA4gAEKnWZAp9AgD_-5xQ",
+                "snippet": {
+                    "title": "Universidade Federal da Fronteira Sul \u2013 UFFS",
+                    "description": "",
+                    "publishedAt": "2017-09-15T19:09:38Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRwEcAyX8CBV_PzMt-wNn2yHvJkAvx9TqUjZ4w6LA=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRwEcAyX8CBV_PzMt-wNn2yHvJkAvx9TqUjZ4w6LA=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRwEcAyX8CBV_PzMt-wNn2yHvJkAvx9TqUjZ4w6LA=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Universidade Federal da Fronteira Sul \u2013 UFFS",
+                        "description": ""
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUbiA4gAEKnWZAp9AgD_-5xQ"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "63861",
+                    "subscriberCount": "1370",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "76"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "spoAbD0B-JMe26yu-uDwO0v72n4",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "1hS3KTLv5I1LVlvPiJE6ylKV3Zo",
+                "id": "UCVEN3bSdTJsYvDM0JfqerYA",
+                "snippet": {
+                    "title": "UFG Oficial",
+                    "description": "Canal oficial da Universidade Federal de Goi\u00e1s, atualizado pela Reitoria Digital e pela Secretaria de Comunica\u00e7\u00e3o da UFG\nTwitter: @ufg_oficial \nInstagram: ufg_oficial\nFacebook:@universidadefederaldegoias\nLinkedin: universidade federal de goias\nwww.youtube.com/c/UFGOficial\nhttps://soundcloud.com/ufg-oficial\n\nPara agendamento de lives: https://reitoriadigital.ufg.br/p/33692-youtube-ufg-oficial",
+                    "customUrl": "ufgoficial",
+                    "publishedAt": "2018-03-27T19:55:32Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/rSTn6PBRe6ybMNElMTVygFnTpm5IQ8UIg7_ylFQin5jIJcViCvuC3HpvrEEJvV1CF7ZKwRe2=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/rSTn6PBRe6ybMNElMTVygFnTpm5IQ8UIg7_ylFQin5jIJcViCvuC3HpvrEEJvV1CF7ZKwRe2=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/rSTn6PBRe6ybMNElMTVygFnTpm5IQ8UIg7_ylFQin5jIJcViCvuC3HpvrEEJvV1CF7ZKwRe2=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "UFG Oficial",
+                        "description": "Canal oficial da Universidade Federal de Goi\u00e1s, atualizado pela Reitoria Digital e pela Secretaria de Comunica\u00e7\u00e3o da UFG\nTwitter: @ufg_oficial \nInstagram: ufg_oficial\nFacebook:@universidadefederaldegoias\nLinkedin: universidade federal de goias\nwww.youtube.com/c/UFGOficial\nhttps://soundcloud.com/ufg-oficial\n\nPara agendamento de lives: https://reitoriadigital.ufg.br/p/33692-youtube-ufg-oficial"
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUVEN3bSdTJsYvDM0JfqerYA"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "1487237",
+                    "subscriberCount": "39500",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "2424"
+                }
+            }
+        ]
+    },
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "okcmct3-LTXBma2eDqKj50Jy0PY",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "t8H5jy2vDeyrfIYKmax3UE1zpT4",
+                "id": "UCklii3asI9UbeTgFUvoCDAQ",
+                "snippet": {
+                    "title": "UFJ",
+                    "description": "",
+                    "customUrl": "comunicacaoufj",
+                    "publishedAt": "2011-10-10T02:51:42Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSAqyegDneckpl9WqBiqZBDLr-kivEw6eE300D8KQ=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSAqyegDneckpl9WqBiqZBDLr-kivEw6eE300D8KQ=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSAqyegDneckpl9WqBiqZBDLr-kivEw6eE300D8KQ=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "UFJ",
+                        "description": ""
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUklii3asI9UbeTgFUvoCDAQ"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "93670",
+                    "subscriberCount": "2680",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "234"
+                }
+            }
+        ]
+    },
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "TLy2kBx70vSXNOjY2Y3PuHShczs",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "B3X4_SgnURAXOVMrWcgL66RUZGo",
+                "id": "UCiqWV2usrA6X6xnIvQ19gfw",
+                "snippet": {
+                    "title": "Canal Institucional da UFMA",
+                    "description": "",
+                    "customUrl": "ufmaoficial",
+                    "publishedAt": "2010-03-30T19:47:24Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/W8ezYMNhxCtRnd52_OjmrOedUHPxF0CIneBCB69nywu0LHCTupxYq-IFNhSkW6FOk7nj_lW3=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/W8ezYMNhxCtRnd52_OjmrOedUHPxF0CIneBCB69nywu0LHCTupxYq-IFNhSkW6FOk7nj_lW3=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/W8ezYMNhxCtRnd52_OjmrOedUHPxF0CIneBCB69nywu0LHCTupxYq-IFNhSkW6FOk7nj_lW3=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Canal Institucional da UFMA",
+                        "description": ""
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUiqWV2usrA6X6xnIvQ19gfw"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "1703612",
+                    "subscriberCount": "17800",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "2243"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "o3gEEwu7buxY8ZUjaE0szYkmEMo",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "-9neR6TC4pSIV6q2KRk-qxX9hpM",
+                "id": "UCmAPduRC7ivNngqq2pgIxBg",
+                "snippet": {
+                    "title": "Universidade Federal de Minas Gerais - UFMG",
+                    "description": "Canal oficial da Universidade Federal de Minas Gerais no YouTube. \n\nPara regras de uso das m\u00eddias sociais da UFMG, acesse: https://bit.ly/38MfGje.\n",
+                    "publishedAt": "2006-08-19T14:40:27Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSmcZlnhxw0-GeX-uwDC2mEMAW6n4wT4nfvLhcS=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSmcZlnhxw0-GeX-uwDC2mEMAW6n4wT4nfvLhcS=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSmcZlnhxw0-GeX-uwDC2mEMAW6n4wT4nfvLhcS=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Universidade Federal de Minas Gerais - UFMG",
+                        "description": "Canal oficial da Universidade Federal de Minas Gerais no YouTube. \n\nPara regras de uso das m\u00eddias sociais da UFMG, acesse: https://bit.ly/38MfGje.\n"
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUmAPduRC7ivNngqq2pgIxBg"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "583975",
+                    "subscriberCount": "11100",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "515"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "1_QbGzObqQLDD0Qnk1qaz9HNc98",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "BxnKhKNk8UXGM7TTyPxEykpRWMQ",
+                "id": "UC5MHS3vY3J2FHWwkAgvSZlw",
+                "snippet": {
+                    "title": "TV Universidade - UFMT",
+                    "description": "Sejam bem-vindos ao canal da TVU na web.\n\nA TV Universidade \u00e9 um dos ve\u00edculos de comunica\u00e7\u00e3o institucional da Universidade Federal de Mato Grosso, emissora educativa de Cuiab\u00e1, afiliada da Rede EBC -- TV Brasil. \nAtua na retransmiss\u00e3o da programa\u00e7\u00e3o nacional da TV Brasil, al\u00e9m da produ\u00e7\u00e3o e exibi\u00e7\u00e3o de programas locais, tais como Rep\u00f3rter Mato Grosso, UFMT.Ci\u00eancia, Voc\u00ea no Cinema, entre outros.\n\nToda a programa\u00e7\u00e3o da TVU UFMT \u00e9 exibida em rede aberta, no canal 2, e canal 6 da SIMTV, em Cuiab\u00e1 -- Mato Grosso.\n\nO melhor da programa\u00e7\u00e3o, voc\u00ea confere aqui!\n\nInforma\u00e7\u00f5es e contatos:\nWWW.ufmt.br/ufmt/tvu\nsecomm@ufmt.br",
+                    "publishedAt": "2011-10-06T19:54:47Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTlBJQ3quVBlyd5_WngzNhCvpsuBzOwSdQMdiQ=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTlBJQ3quVBlyd5_WngzNhCvpsuBzOwSdQMdiQ=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTlBJQ3quVBlyd5_WngzNhCvpsuBzOwSdQMdiQ=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "TV Universidade - UFMT",
+                        "description": "Sejam bem-vindos ao canal da TVU na web.\n\nA TV Universidade \u00e9 um dos ve\u00edculos de comunica\u00e7\u00e3o institucional da Universidade Federal de Mato Grosso, emissora educativa de Cuiab\u00e1, afiliada da Rede EBC -- TV Brasil. \nAtua na retransmiss\u00e3o da programa\u00e7\u00e3o nacional da TV Brasil, al\u00e9m da produ\u00e7\u00e3o e exibi\u00e7\u00e3o de programas locais, tais como Rep\u00f3rter Mato Grosso, UFMT.Ci\u00eancia, Voc\u00ea no Cinema, entre outros.\n\nToda a programa\u00e7\u00e3o da TVU UFMT \u00e9 exibida em rede aberta, no canal 2, e canal 6 da SIMTV, em Cuiab\u00e1 -- Mato Grosso.\n\nO melhor da programa\u00e7\u00e3o, voc\u00ea confere aqui!\n\nInforma\u00e7\u00f5es e contatos:\nWWW.ufmt.br/ufmt/tvu\nsecomm@ufmt.br"
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU5MHS3vY3J2FHWwkAgvSZlw"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "690182",
+                    "subscriberCount": "12500",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "1600"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "TxlhGq6NLz_V1zOhW2yYGLDhk-8",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "7ik2un90g7nphxsb-vHQJzkctU0",
+                "id": "UCHzqawxq5QQh_UMpUjSwpwQ",
+                "snippet": {
+                    "title": "UFNT Oficial",
+                    "description": "Canal oficial da Universidade Federal do Norte do Tocantins (UFNT - Lei 13856/2019) \ud83c\udf93",
+                    "publishedAt": "2016-07-12T21:57:49Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTc_DhFu_QXJIKjDWXldnilcIQmCVsOVk_1x4-8nQ=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTc_DhFu_QXJIKjDWXldnilcIQmCVsOVk_1x4-8nQ=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTc_DhFu_QXJIKjDWXldnilcIQmCVsOVk_1x4-8nQ=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "UFNT Oficial",
+                        "description": "Canal oficial da Universidade Federal do Norte do Tocantins (UFNT - Lei 13856/2019) \ud83c\udf93"
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUHzqawxq5QQh_UMpUjSwpwQ"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "14547",
+                    "subscriberCount": "1040",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "87"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "5Vli57xVJi5sJm2vaFkijPOl8OI",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "dR71n_TpWbXG5o3XUdZe4nEfnk0",
+                "id": "UC6jvFX7tb_BfIpXCekMSpoQ",
+                "snippet": {
+                    "title": "UFOB",
+                    "description": "Este \u00e9 o canal oficial da Universidade Federal do Oeste da Bahia no Youtube. Aqui voc\u00ea pode assistir aos v\u00eddeos sobre as atividades de pesquisa, extens\u00e3o e ensino e outros sobre o dia a dia acad\u00eamico.",
+                    "customUrl": "ufoboficial",
+                    "publishedAt": "2014-11-11T11:24:34Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRGfzIST9Ni4y1hGu2iD-lI4DNNjN8rDcQbzB-StQ=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRGfzIST9Ni4y1hGu2iD-lI4DNNjN8rDcQbzB-StQ=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRGfzIST9Ni4y1hGu2iD-lI4DNNjN8rDcQbzB-StQ=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "UFOB",
+                        "description": "Este \u00e9 o canal oficial da Universidade Federal do Oeste da Bahia no Youtube. Aqui voc\u00ea pode assistir aos v\u00eddeos sobre as atividades de pesquisa, extens\u00e3o e ensino e outros sobre o dia a dia acad\u00eamico."
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU6jvFX7tb_BfIpXCekMSpoQ"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "65049",
+                    "subscriberCount": "1360",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "141"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "ud-afnkF4qNOo5FYEzSXjxCUdak",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "AFxWEoh8NZLRXc3X1lgPvUpqlqU",
+                "id": "UCmzZlr9rEk0TRiYbcEYTfGg",
+                "snippet": {
+                    "title": "TV UFOP",
+                    "description": "A Universidade Federal de Ouro Preto (UFOP), por meio da Central de Comunica\u00e7\u00e3o P\u00fablico-Educativa (CCPE), colocou no ar, em outubro de 2011, a TV UFOP, uma concess\u00e3o dada \u00e0 Funda\u00e7\u00e3o Educativa Ouro Preto (Feop), que ap\u00f3ia projetos da Institui\u00e7\u00e3o. Uma das vertentes da CPPE \u00e9 ampliar o di\u00e1logo da Universidade com a comunidade, por meio da comunica\u00e7\u00e3o p\u00fablica, de car\u00e1ter educativo. Nessa rela\u00e7\u00e3o, existe uma busca constante para a forma\u00e7\u00e3o de pessoal para produ\u00e7\u00e3o audiovisual, com foco especial na juventude. Dentro desse setor acontecem as atividades da TV UFOP.\n\nO embri\u00e3o que deu origem \u00e0 TV UFOP foi o Centro de Produ\u00e7\u00e3o e Pesquisa Audiovisual (CPPA), criado em 2006. Desta data at\u00e9 a concess\u00e3o do canal aberto, foram pesquisas a linguagem e o conte\u00fado que viria a ser veiculado por este ve\u00edculo. A base de tudo o que \u00e9 produzido hoje pelo canal, tem um longo per\u00edodo de experimenta\u00e7\u00e3o e pesquisa.\n\n A TV UFOP possui sinal aberto no canal 31 UHF para Ouro Preto.",
+                    "publishedAt": "2009-10-22T17:17:51Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSyvUpbDBoSfntT0KGITIcWsz0_PiRT_syT1GbwRA=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSyvUpbDBoSfntT0KGITIcWsz0_PiRT_syT1GbwRA=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSyvUpbDBoSfntT0KGITIcWsz0_PiRT_syT1GbwRA=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "TV UFOP",
+                        "description": "A Universidade Federal de Ouro Preto (UFOP), por meio da Central de Comunica\u00e7\u00e3o P\u00fablico-Educativa (CCPE), colocou no ar, em outubro de 2011, a TV UFOP, uma concess\u00e3o dada \u00e0 Funda\u00e7\u00e3o Educativa Ouro Preto (Feop), que ap\u00f3ia projetos da Institui\u00e7\u00e3o. Uma das vertentes da CPPE \u00e9 ampliar o di\u00e1logo da Universidade com a comunidade, por meio da comunica\u00e7\u00e3o p\u00fablica, de car\u00e1ter educativo. Nessa rela\u00e7\u00e3o, existe uma busca constante para a forma\u00e7\u00e3o de pessoal para produ\u00e7\u00e3o audiovisual, com foco especial na juventude. Dentro desse setor acontecem as atividades da TV UFOP.\n\nO embri\u00e3o que deu origem \u00e0 TV UFOP foi o Centro de Produ\u00e7\u00e3o e Pesquisa Audiovisual (CPPA), criado em 2006. Desta data at\u00e9 a concess\u00e3o do canal aberto, foram pesquisas a linguagem e o conte\u00fado que viria a ser veiculado por este ve\u00edculo. A base de tudo o que \u00e9 produzido hoje pelo canal, tem um longo per\u00edodo de experimenta\u00e7\u00e3o e pesquisa.\n\n A TV UFOP possui sinal aberto no canal 31 UHF para Ouro Preto."
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUmzZlr9rEk0TRiYbcEYTfGg"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "1718683",
+                    "subscriberCount": "8970",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "2561"
+                }
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "o4jl5_0N_JawPyKlTy7mcG9JtL4",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "PEq1eU35cUQocHkIzYh9Gk3atqs",
+                "id": "UCX1qVmcJasysEfUxCpZpafw",
+                "snippet": {
+                    "title": "UFPR TV",
+                    "description": "Somos a UFPR TV: o canal da Universidade Federal do Paran\u00e1. Nossa miss\u00e3o \u00e9 trazer voc\u00ea para perto da Universidade, afinal, a UFPR \u00e9 de todos!\n\nBuscamos a not\u00edcia, as pesquisas, as a\u00e7\u00f5es culturais e tudo que acontece dentro da UFPR para manter voc\u00ea bem informado e cheio de novos conhecimentos. Temas como sa\u00fade, ci\u00eancia, cultura, m\u00fasica, literatura, profiss\u00f5es, cinema e economia fazem parte da programa\u00e7\u00e3o. Tudo isso fica dispon\u00edvel em nosso site para voc\u00ea acessar quando quiser e de onde estiver!\n\nAcompanhe nossa produ\u00e7\u00e3o!\n\ud83c\udf10 www.tv.ufpr.br\n\ud83d\udc4d fb.com/ufprtvoficial",
+                    "publishedAt": "2011-10-10T22:07:27Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSwxOu5vg-SpQMwySxLynldf-tBWgjiJxiCIwsN=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSwxOu5vg-SpQMwySxLynldf-tBWgjiJxiCIwsN=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSwxOu5vg-SpQMwySxLynldf-tBWgjiJxiCIwsN=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "UFPR TV",
+                        "description": "Somos a UFPR TV: o canal da Universidade Federal do Paran\u00e1. Nossa miss\u00e3o \u00e9 trazer voc\u00ea para perto da Universidade, afinal, a UFPR \u00e9 de todos!\n\nBuscamos a not\u00edcia, as pesquisas, as a\u00e7\u00f5es culturais e tudo que acontece dentro da UFPR para manter voc\u00ea bem informado e cheio de novos conhecimentos. Temas como sa\u00fade, ci\u00eancia, cultura, m\u00fasica, literatura, profiss\u00f5es, cinema e economia fazem parte da programa\u00e7\u00e3o. Tudo isso fica dispon\u00edvel em nosso site para voc\u00ea acessar quando quiser e de onde estiver!\n\nAcompanhe nossa produ\u00e7\u00e3o!\n\ud83c\udf10 www.tv.ufpr.br\n\ud83d\udc4d fb.com/ufprtvoficial"
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUX1qVmcJasysEfUxCpZpafw"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "6469381",
+                    "subscriberCount": "60500",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "3927"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "uZsnedNzJEIY2Gf_QblOnqXmsZA",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "f7-gUR_YrtYzOUFI3h0RLgUk8zA",
+                "id": "UC94jqxyB-F2D7Ddnl3pdMew",
+                "snippet": {
+                    "title": "UFR",
+                    "description": "A Universidade Federal de Rondon\u00f3polis (UFR) \u00e9 a segunda universidade p\u00fablica do Estado de Mato Grosso. Sua trajet\u00f3ria possui mais de 40 anos, tendo se tornado uma institui\u00e7\u00e3o aut\u00f4noma por meio da lei n\u00ba 13.637, de 20 de mar\u00e7o de 2018.",
+                    "customUrl": "ufroficial",
+                    "publishedAt": "2020-03-12T17:26:18.510585Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSy3kKfWZegOGUykGKnjrg0S1o5WInsc_yG5liX=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSy3kKfWZegOGUykGKnjrg0S1o5WInsc_yG5liX=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSy3kKfWZegOGUykGKnjrg0S1o5WInsc_yG5liX=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "UFR",
+                        "description": "A Universidade Federal de Rondon\u00f3polis (UFR) \u00e9 a segunda universidade p\u00fablica do Estado de Mato Grosso. Sua trajet\u00f3ria possui mais de 40 anos, tendo se tornado uma institui\u00e7\u00e3o aut\u00f4noma por meio da lei n\u00ba 13.637, de 20 de mar\u00e7o de 2018."
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU94jqxyB-F2D7Ddnl3pdMew"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "68599",
+                    "subscriberCount": "2250",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "196"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "e2AO3GL9X6kuDHIAsOgkU1QiTAU",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "K5tOtaiDAkFTuwhXl0GLV3L09pg",
+                "id": "UCSHDm7SvDR7I759t0Ij4Z0Q",
+                "snippet": {
+                    "title": "UFRA Oficial",
+                    "description": "Canal oficial de divulga\u00e7\u00e3o das a\u00e7\u00f5es da Universidade Federal Rural da Amaz\u00f4nia (UFRA) veiculadas tanto pela imprensa quanto pela assessoria de comunica\u00e7\u00e3o da institui\u00e7\u00e3o.",
+                    "customUrl": "ufraoficial",
+                    "publishedAt": "2011-09-29T16:28:37Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQmIS7NytwWyVWRmWqohFpXWrLUMe31dbWkGgDWHQ=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQmIS7NytwWyVWRmWqohFpXWrLUMe31dbWkGgDWHQ=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQmIS7NytwWyVWRmWqohFpXWrLUMe31dbWkGgDWHQ=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "UFRA Oficial",
+                        "description": "Canal oficial de divulga\u00e7\u00e3o das a\u00e7\u00f5es da Universidade Federal Rural da Amaz\u00f4nia (UFRA) veiculadas tanto pela imprensa quanto pela assessoria de comunica\u00e7\u00e3o da institui\u00e7\u00e3o."
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUSHDm7SvDR7I759t0Ij4Z0Q"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "219633",
+                    "subscriberCount": "4510",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "211"
+                }
+            }
+        ]
+    },
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "wVfNEpZ83DdD9tTbofvybbyAdy4",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "pszkSyhUSr8SePtwlmLdGEvcpws",
+                "id": "UCna8_e7Ytg9WcRQg0NtkEgQ",
+                "snippet": {
+                    "title": "UFRGS TV",
+                    "description": "A Unidade Produtora de TV da Universidade Federal do Rio Grande do Sul apresenta \u00e0 comunidade as atividades e os projetos desenvolvidos na UFRGS, uma das mais conceituadas institui\u00e7\u00f5es federais de ensino superior do Brasil.\r\n\r\nA UFRGS TV \u00e9 tamb\u00e9m um espa\u00e7o de aprendizagem e pesquisa para estudantes de gradua\u00e7\u00e3o, principalmente de Comunica\u00e7\u00e3o Social.\r\n\r\nA programa\u00e7\u00e3o \u00e9 exibida na Unitv - Canal 15 da NET Porto Alegre (Lei n\u00ba 8977/95) e pode tamb\u00e9m ser acompanhada nos sites www.unitv.tv.br e www.tv.ufrgs.br.\r\n\r\nUFRGS TV\r\nRua Sarmento Leite, 426\r\nCampus Centro\r\nPorto Alegre-RS\r\nCEP 90046-900\r\n\r\nTelefone: [51] 3308.3241\r\nE-mail: ufrgstv@ufrgs.br",
+                    "publishedAt": "2007-06-20T20:37:09Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQJOoBFiHK63d59-F4KTlSbvahRSSsJiBtGOijCDw=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQJOoBFiHK63d59-F4KTlSbvahRSSsJiBtGOijCDw=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQJOoBFiHK63d59-F4KTlSbvahRSSsJiBtGOijCDw=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "UFRGS TV",
+                        "description": "A Unidade Produtora de TV da Universidade Federal do Rio Grande do Sul apresenta \u00e0 comunidade as atividades e os projetos desenvolvidos na UFRGS, uma das mais conceituadas institui\u00e7\u00f5es federais de ensino superior do Brasil.\r\n\r\nA UFRGS TV \u00e9 tamb\u00e9m um espa\u00e7o de aprendizagem e pesquisa para estudantes de gradua\u00e7\u00e3o, principalmente de Comunica\u00e7\u00e3o Social.\r\n\r\nA programa\u00e7\u00e3o \u00e9 exibida na Unitv - Canal 15 da NET Porto Alegre (Lei n\u00ba 8977/95) e pode tamb\u00e9m ser acompanhada nos sites www.unitv.tv.br e www.tv.ufrgs.br.\r\n\r\nUFRGS TV\r\nRua Sarmento Leite, 426\r\nCampus Centro\r\nPorto Alegre-RS\r\nCEP 90046-900\r\n\r\nTelefone: [51] 3308.3241\r\nE-mail: ufrgstv@ufrgs.br"
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUna8_e7Ytg9WcRQg0NtkEgQ"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "5466410",
+                    "subscriberCount": "44200",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "2983"
+                }
+            }
+        ]
+    },
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "QSdtDKt2yzN56fmd8581a8qAO2A",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "Ejd1Xll7ITNcdsLw4msOuL4bNGo",
+                "id": "UCbnu_Rlu_aPVI0FKG3enw_Q",
+                "snippet": {
+                    "title": "Canal UFRN",
+                    "description": "O canal UFRN tem como principal objetivo mostrar a produ\u00e7\u00e3o acad\u00eamica, cient\u00edfica  e cultural da Universidade, trazendo conte\u00fados atualizados. Inscreva-se e acompanhe o dia-a-dia da Institui\u00e7\u00e3o que tem transformado o Estado do Rio Grande do Norte.",
+                    "customUrl": "canalufrn",
+                    "publishedAt": "2011-10-11T12:29:47Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSFD3j-Y6nBy7l8zfV_7mXAnEfIt5aS4a28sGxsLg=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSFD3j-Y6nBy7l8zfV_7mXAnEfIt5aS4a28sGxsLg=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSFD3j-Y6nBy7l8zfV_7mXAnEfIt5aS4a28sGxsLg=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Canal UFRN",
+                        "description": "O canal UFRN tem como principal objetivo mostrar a produ\u00e7\u00e3o acad\u00eamica, cient\u00edfica  e cultural da Universidade, trazendo conte\u00fados atualizados. Inscreva-se e acompanhe o dia-a-dia da Institui\u00e7\u00e3o que tem transformado o Estado do Rio Grande do Norte."
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUbnu_Rlu_aPVI0FKG3enw_Q"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "1122779",
+                    "subscriberCount": "13800",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "383"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "y5n3uwF8jEo2lkj5Iunk-XqE9io",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "f7jQPtKvHmlLVbpXcPsN2tW4_vY",
+                "id": "UCUT61na639_PnQJLwLrwofA",
+                "snippet": {
+                    "title": "UFRPE",
+                    "description": "Canal oficial da Universidade Federal Rural de Pernambuco (UFRPE) no YouTube.",
+                    "customUrl": "ufrpeoficial",
+                    "publishedAt": "2009-05-29T12:52:26Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLT0cHVqGoRDNNOeWIDKglXLWHEAyBSOg4l5yaxhHw=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLT0cHVqGoRDNNOeWIDKglXLWHEAyBSOg4l5yaxhHw=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLT0cHVqGoRDNNOeWIDKglXLWHEAyBSOg4l5yaxhHw=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "UFRPE",
+                        "description": "Canal oficial da Universidade Federal Rural de Pernambuco (UFRPE) no YouTube."
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUUT61na639_PnQJLwLrwofA"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "612845",
+                    "subscriberCount": "18400",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "505"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "TohygXwdnugqeJPwcdC2df4O0Vw",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "yKikhCG34nx7E-QIVjMs8j61cuk",
+                "id": "UCxMfgRGs81lJOdbbQOlDKQg",
+                "snippet": {
+                    "title": "Universidade Federal de Roraima",
+                    "description": "",
+                    "publishedAt": "2013-11-18T14:44:30Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/bjJg-h3DdSptc9HdLJJ9Yg0Qt8OJMhR63LIWC15WQq9PxPBvZbGvC8T-CfMtcx-nsPs86_XfvQ=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/bjJg-h3DdSptc9HdLJJ9Yg0Qt8OJMhR63LIWC15WQq9PxPBvZbGvC8T-CfMtcx-nsPs86_XfvQ=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/bjJg-h3DdSptc9HdLJJ9Yg0Qt8OJMhR63LIWC15WQq9PxPBvZbGvC8T-CfMtcx-nsPs86_XfvQ=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Universidade Federal de Roraima",
+                        "description": ""
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUxMfgRGs81lJOdbbQOlDKQg"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "129938",
+                    "subscriberCount": "5160",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "327"
+                }
+            }
+        ]
+    },
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "kY1r_jMDf3GCkmSI7Y2wU1cLUR0",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "EgGCpasxVScCG5CgShM7acIqMUo",
+                "id": "UC1qFKDAnsW0UkD_3MSjM-KA",
+                "snippet": {
+                    "title": "TV UFS",
+                    "description": "Este \u00e9 o canal oficial da Universidade Federal de Sergipe, alimentado pela Produtora Audiovisual da Diretoria de Editora\u00e7\u00e3o, Comunica\u00e7\u00e3o Social e Produ\u00e7\u00e3o Audiovisual.",
+                    "customUrl": "tvufs",
+                    "publishedAt": "2014-02-26T17:56:54Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/Cty30o-6pvCDFmxBMuAQBly8flNpDWNW_cRX4owDvjQxm8erziPuLv4DlpX7W4zOOM7ojd-BpA=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/Cty30o-6pvCDFmxBMuAQBly8flNpDWNW_cRX4owDvjQxm8erziPuLv4DlpX7W4zOOM7ojd-BpA=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/Cty30o-6pvCDFmxBMuAQBly8flNpDWNW_cRX4owDvjQxm8erziPuLv4DlpX7W4zOOM7ojd-BpA=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "TV UFS",
+                        "description": "Este \u00e9 o canal oficial da Universidade Federal de Sergipe, alimentado pela Produtora Audiovisual da Diretoria de Editora\u00e7\u00e3o, Comunica\u00e7\u00e3o Social e Produ\u00e7\u00e3o Audiovisual."
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU1qFKDAnsW0UkD_3MSjM-KA"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "682362",
+                    "subscriberCount": "14800",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "1833"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "w8wYhf956RpEjBVNvG9JvZ5O9IY",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "WIPZhZ3UG-KhwoqBTyLq62bY2xA",
+                "id": "UCHYnaQiA4hAhzfmIrE0d_3Q",
+                "snippet": {
+                    "title": "Audit\u00f3rio Virtual UFSB",
+                    "description": "Canal da Diretoria de Multim\u00eddia e Conte\u00fados Digitais - PROTIC - UFSB",
+                    "customUrl": "auditoriovirtualufsb",
+                    "publishedAt": "2017-07-19T12:03:57Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTgzoi8yCCZb-LgL1oNWfTuAhbTvRlTcE_X-2fWOQ=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTgzoi8yCCZb-LgL1oNWfTuAhbTvRlTcE_X-2fWOQ=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLTgzoi8yCCZb-LgL1oNWfTuAhbTvRlTcE_X-2fWOQ=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Audit\u00f3rio Virtual UFSB",
+                        "description": "Canal da Diretoria de Multim\u00eddia e Conte\u00fados Digitais - PROTIC - UFSB"
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUHYnaQiA4hAhzfmIrE0d_3Q"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "155696",
+                    "subscriberCount": "4880",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "305"
+                }
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "yrDbEQHnEVOxuu2lEsQ4APrZTDk",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "iANJFiPrmCcv-Xlo1e1gkGXsXY8",
+                "id": "UCHfMH8IWHaxcFEB9Ls5MbUA",
+                "snippet": {
+                    "title": "Universidade Federal de Santa Maria UFSM",
+                    "description": "Canal institucional da Universidade Federal da Universidade Federal de Santa Maria (UFSM).",
+                    "customUrl": "universidadefederaldesantamariaufsm",
+                    "publishedAt": "2020-12-03T20:02:34.894525Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/uFAICSX6eCFf6el2LSbGeYh5tCVlOvJbvkN68oT5x8heP0SuCty2IuMcjkMI2uMNGg2V3fVypw=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/uFAICSX6eCFf6el2LSbGeYh5tCVlOvJbvkN68oT5x8heP0SuCty2IuMcjkMI2uMNGg2V3fVypw=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/uFAICSX6eCFf6el2LSbGeYh5tCVlOvJbvkN68oT5x8heP0SuCty2IuMcjkMI2uMNGg2V3fVypw=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Universidade Federal de Santa Maria UFSM",
+                        "description": "Canal institucional da Universidade Federal da Universidade Federal de Santa Maria (UFSM)."
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUHfMH8IWHaxcFEB9Ls5MbUA"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "59272",
+                    "subscriberCount": "2520",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "155"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "YZmNV4aI4jNxsWO1cuakatNWOVc",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "JYp7iE6Toz8lN2xASYIaV7WuspI",
+                "id": "UCU1GWGu8gqnG4kI6y_vNa_Q",
+                "snippet": {
+                    "title": "UFToficial",
+                    "description": "Canal oficial de v\u00eddeos da Universidade Federal do Tocantins (UFT)",
+                    "customUrl": "uftoficial",
+                    "publishedAt": "2013-04-15T12:55:48Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/mbZdEi9Tdk3nlEQ9g4BGrWMvUCCuXrL3TN03-Vb8eqB0X6kyrspfpjltccxvBIlWOL4-Xk8scfI=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/mbZdEi9Tdk3nlEQ9g4BGrWMvUCCuXrL3TN03-Vb8eqB0X6kyrspfpjltccxvBIlWOL4-Xk8scfI=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/mbZdEi9Tdk3nlEQ9g4BGrWMvUCCuXrL3TN03-Vb8eqB0X6kyrspfpjltccxvBIlWOL4-Xk8scfI=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "UFToficial",
+                        "description": "Canal oficial de v\u00eddeos da Universidade Federal do Tocantins (UFT)"
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUU1GWGu8gqnG4kI6y_vNa_Q"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "360500",
+                    "subscriberCount": "10700",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "643"
+                }
+            }
+        ]
+    },
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "x61U4SraBiYDGlSUHyyEkJH4BE8",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "ltYCgrgJZtlJqdpzqZS1uspjzXU",
+                "id": "UCX7XTFTZmkJQVOGneI33rug",
+                "snippet": {
+                    "title": "TV Universit\u00e1ria de Uberl\u00e2ndia",
+                    "description": "P\u00e1gina da TV Universit\u00e1ria de Uberl\u00e2ndia, afiliada da TV Cultura\nCanal 4.1 (TV aberta)\nTel: +55 34 3239 4343",
+                    "customUrl": "tvuniversitariaufu",
+                    "publishedAt": "2010-01-15T18:36:43Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQ4-_Myg2hJzRufQJw1FV67Uau-XbrSTbJlUwNUtA=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQ4-_Myg2hJzRufQJw1FV67Uau-XbrSTbJlUwNUtA=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQ4-_Myg2hJzRufQJw1FV67Uau-XbrSTbJlUwNUtA=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "TV Universit\u00e1ria de Uberl\u00e2ndia",
+                        "description": "P\u00e1gina da TV Universit\u00e1ria de Uberl\u00e2ndia, afiliada da TV Cultura\nCanal 4.1 (TV aberta)\nTel: +55 34 3239 4343"
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUX7XTFTZmkJQVOGneI33rug"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "4053081",
+                    "subscriberCount": "21300",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "9955"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "5O047v_jkPKg-59ubFU0IsBf4OE",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "nF3gK5KG8vA5hihXgHugClsYhWM",
+                "id": "UCbT5RHZncV04-qp1jtm6Nsw",
+                "snippet": {
+                    "title": "UFV",
+                    "description": "Este \u00e9 o canal oficial da Universidade Federal de Vi\u00e7osa (UFV). Aqui, s\u00e3o divulgadas as novidades sobre a institui\u00e7\u00e3o e seus tr\u00eas campi: em Vi\u00e7osa, Florestal e Rio Parana\u00edba (MG).\n\nSite: www.ufv.br\nFacebook: @ufvbr\nTwitter: @ufvbr\nInstagram: @ufvbroficial\nYouTube: @ufvbroficial",
+                    "customUrl": "ufvbroficial",
+                    "publishedAt": "2015-11-04T13:16:14Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSdBdDhRj8WRZFA02AAzjprvvtYrRGHZOkXWi35gA=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSdBdDhRj8WRZFA02AAzjprvvtYrRGHZOkXWi35gA=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLSdBdDhRj8WRZFA02AAzjprvvtYrRGHZOkXWi35gA=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "UFV",
+                        "description": "Este \u00e9 o canal oficial da Universidade Federal de Vi\u00e7osa (UFV). Aqui, s\u00e3o divulgadas as novidades sobre a institui\u00e7\u00e3o e seus tr\u00eas campi: em Vi\u00e7osa, Florestal e Rio Parana\u00edba (MG).\n\nSite: www.ufv.br\nFacebook: @ufvbr\nTwitter: @ufvbr\nInstagram: @ufvbroficial\nYouTube: @ufvbroficial"
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUbT5RHZncV04-qp1jtm6Nsw"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "1075538",
+                    "subscriberCount": "14400",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "329"
+                }
+            }
+        ]
+    },
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "EA9oB2dMDrTT0yhuD6rvTPrrrtc",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "kbCv0BEN7jmJvgPLMp0U2ODFBHE",
+                "id": "UCUUU5zBnxg55vaXymuFJDPw",
+                "snippet": {
+                    "title": "UnBTV",
+                    "description": "Canal de TV da Universidade de Bras\u00edlia (UnB)",
+                    "customUrl": "unbtvprazeremconhecerunbtv",
+                    "publishedAt": "2007-03-27T14:10:40Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRTtlHF57R0Xmaf-zcV9gZ-83S5p-xhH-_Ru2Vx3w=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRTtlHF57R0Xmaf-zcV9gZ-83S5p-xhH-_Ru2Vx3w=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRTtlHF57R0Xmaf-zcV9gZ-83S5p-xhH-_Ru2Vx3w=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "UnBTV",
+                        "description": "Canal de TV da Universidade de Bras\u00edlia (UnB)"
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUUUU5zBnxg55vaXymuFJDPw"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "6447099",
+                    "subscriberCount": "63000",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "10260"
+                }
+            }
+        ]
+    },
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "wgEiIm8kLGKnkMvIUCF8lCmP4fI",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "eHicXULraXm6reBQUMhN1B6HB50",
+                "id": "UCepKOEL3eF6-pnKHLVrAbQw",
+                "snippet": {
+                    "title": "UNIFAL-MG",
+                    "description": "Canal gerenciado pela Diretoria de Comunica\u00e7\u00e3o Social (Dicom) da Universidade Federal de Alfenas - UNIFAL-MG.",
+                    "customUrl": "unifalmgoficial",
+                    "publishedAt": "2012-04-04T12:27:26Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/oO23XylJy2TLckkzOCVWt0qzVQX9Z3d7Xd3suEM44cYl8aZz6q9kES-HbyVoiPYJo3-Pe7a-=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/oO23XylJy2TLckkzOCVWt0qzVQX9Z3d7Xd3suEM44cYl8aZz6q9kES-HbyVoiPYJo3-Pe7a-=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/oO23XylJy2TLckkzOCVWt0qzVQX9Z3d7Xd3suEM44cYl8aZz6q9kES-HbyVoiPYJo3-Pe7a-=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "UNIFAL-MG",
+                        "description": "Canal gerenciado pela Diretoria de Comunica\u00e7\u00e3o Social (Dicom) da Universidade Federal de Alfenas - UNIFAL-MG."
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUepKOEL3eF6-pnKHLVrAbQw"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "713293",
+                    "subscriberCount": "11300",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "1456"
+                }
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "Wn9K456iY_BjeFD4zuv_eQfp8Yw",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "YQlxOZXTfJeRmPhx4I5cEmdlaIk",
+                "id": "UC6sIZjlyYCiE2Ks2j_fQggA",
+                "snippet": {
+                    "title": "Unifesspa",
+                    "description": "Universidade Federal do Sul e Sudeste do Par\u00e1 (Unifesspa). Universidade multicampi, com sede na cidade de Marab\u00e1, Par\u00e1, e com presen\u00e7a tamb\u00e9m em Rondon do Par\u00e1, Santana do Araguaia, S\u00e3o F\u00e9lix do Xingu e Xinguara.",
+                    "customUrl": "unifesspaoficial",
+                    "publishedAt": "2016-03-17T20:23:57Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/-2UMHSpaJRG1GOIYS7j3g-Hkrv0t5CJVq7vOdzpCA9aEM0gmpVsSZnDIp4TICRD-TECM8kdX=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/-2UMHSpaJRG1GOIYS7j3g-Hkrv0t5CJVq7vOdzpCA9aEM0gmpVsSZnDIp4TICRD-TECM8kdX=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/-2UMHSpaJRG1GOIYS7j3g-Hkrv0t5CJVq7vOdzpCA9aEM0gmpVsSZnDIp4TICRD-TECM8kdX=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Unifesspa",
+                        "description": "Universidade Federal do Sul e Sudeste do Par\u00e1 (Unifesspa). Universidade multicampi, com sede na cidade de Marab\u00e1, Par\u00e1, e com presen\u00e7a tamb\u00e9m em Rondon do Par\u00e1, Santana do Araguaia, S\u00e3o F\u00e9lix do Xingu e Xinguara."
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU6sIZjlyYCiE2Ks2j_fQggA"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "183902",
+                    "subscriberCount": "4830",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "543"
+                }
+            }
+        ]
+    },
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "QOQevGfyDloaATTai5sQ87qKt28",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "jCIId5I3LbKkJ9C_raYeUFFO9Vs",
+                "id": "UC1cwypwNcrAqOuZeNEgqr_Q",
+                "snippet": {
+                    "title": "Unilab Oficial",
+                    "description": "",
+                    "customUrl": "unilaboficial",
+                    "publishedAt": "2012-08-21T14:41:50Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRaf4ABTUM5R8jF45BYQ9Y4LYCmA8effa1CfaH2DQ=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRaf4ABTUM5R8jF45BYQ9Y4LYCmA8effa1CfaH2DQ=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLRaf4ABTUM5R8jF45BYQ9Y4LYCmA8effa1CfaH2DQ=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "Unilab Oficial",
+                        "description": ""
+                    }
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU1cwypwNcrAqOuZeNEgqr_Q"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "85763",
+                    "subscriberCount": "4340",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "280"
+                }
+            }
+        ]
+    },
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "ZvCFET4wn8vFMBhG_VV667dcqqw",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "19wZjKrR0uRW7Fvwx0w0kkCM_I0",
+                "id": "UCAHopwb3eg9b4T7LRZxeQ5g",
+                "snippet": {
+                    "title": "UNIR",
+                    "description": "Ol\u00e1!\nSeja Bem-Vindo ao canal oficial da Universidade Federal de Rond\u00f4nia - UNIR.\n\nVisite nossa p\u00e1gina institucional: www.unir.br\n",
+                    "customUrl": "universidadefederalderondoniaunir",
+                    "publishedAt": "2021-02-18T16:45:09.242486Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/l9W4nSGIRcoadefUJ89jC_ww9p2rRfXTm-leqnZ6ud34NcBXb-mEva9uCdvuHbwFgTFW6K9p-A=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/l9W4nSGIRcoadefUJ89jC_ww9p2rRfXTm-leqnZ6ud34NcBXb-mEva9uCdvuHbwFgTFW6K9p-A=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/l9W4nSGIRcoadefUJ89jC_ww9p2rRfXTm-leqnZ6ud34NcBXb-mEva9uCdvuHbwFgTFW6K9p-A=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "defaultLanguage": "pt",
+                    "localized": {
+                        "title": "UNIR",
+                        "description": "Ol\u00e1!\nSeja Bem-Vindo ao canal oficial da Universidade Federal de Rond\u00f4nia - UNIR.\n\nVisite nossa p\u00e1gina institucional: www.unir.br\n"
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUAHopwb3eg9b4T7LRZxeQ5g"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "83310",
+                    "subscriberCount": "3130",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "201"
+                }
+            }
+        ]
+    },
+    null,
+    {
+        "kind": "youtube#channelListResponse",
+        "etag": "c46YcOW9la-otrTarQCCuSOhlNI",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "lQTDMKQpaCcSehbGRKS7bC4db3A",
+                "id": "UCCNEfhme3KlBhqB7LFPd7vg",
+                "snippet": {
+                    "title": "RTV Caatinga Univasf",
+                    "description": "R\u00e1dio e WEBTV educativas da Universidade Federal do Vale do S\u00e3o Francisco (Univasf).",
+                    "customUrl": "rtvcaatingaunivasf",
+                    "publishedAt": "2013-03-19T15:09:49Z",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQp-w1zDuWOVxZpkHfc8RUft2mPooE01VaJ9MbmzQ=s88-c-k-c0x00ffffff-no-rj",
+                            "width": 88,
+                            "height": 88
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQp-w1zDuWOVxZpkHfc8RUft2mPooE01VaJ9MbmzQ=s240-c-k-c0x00ffffff-no-rj",
+                            "width": 240,
+                            "height": 240
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AKedOLQp-w1zDuWOVxZpkHfc8RUft2mPooE01VaJ9MbmzQ=s800-c-k-c0x00ffffff-no-rj",
+                            "width": 800,
+                            "height": 800
+                        }
+                    },
+                    "localized": {
+                        "title": "RTV Caatinga Univasf",
+                        "description": "R\u00e1dio e WEBTV educativas da Universidade Federal do Vale do S\u00e3o Francisco (Univasf)."
+                    },
+                    "country": "BR"
+                },
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUCNEfhme3KlBhqB7LFPd7vg"
+                    }
+                },
+                "statistics": {
+                    "viewCount": "12112987",
+                    "subscriberCount": "78300",
+                    "hiddenSubscriberCount": false,
+                    "videoCount": "2764"
+                }
+            }
+        ]
+    },
+    null
+]
