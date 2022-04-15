@@ -49,7 +49,7 @@ class YoutubeApi:
     def get_videos_search(self, channel_id):
         params = {
 
-            'id': channel_id,
+            'channelId': channel_id,
             'key': self.api_key,
             'maxResults': 50
         }
